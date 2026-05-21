@@ -1245,8 +1245,8 @@
         {
             "calibModle": "MovieEIS",
             "cameraID": 0,
-            "cropFactor": [1.0667, 1.8686],
-            "frameOutSize": [3840, 1644],
+            "cropFactor": [1.0667, 1.0667],
+            "frameOutSize": [1920, 1080],
             "FrameDelay": 30,
             "Readout": 14242,
             "ReadoutExplorer": 10201,
@@ -1296,8 +1296,8 @@
         {
             "calibModle": "MovieEIS",
             "cameraID": 2,
-            "cropFactor": [1.2, 1.2],
-            "frameOutSize": [2520, 1080],
+            "cropFactor": [1.0667, 1.0667],
+            "frameOutSize": [1920, 1080],
             "FrameDelay": 30,
             "Readout": 32518,
             "ReadoutExplorer": 32518,
